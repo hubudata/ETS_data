@@ -12,3 +12,9 @@
 ![](https://github.com/hubudata/ETS_data/raw/master/country_curve/11-18-23-29_2018_11_18_23_55_31_41.jpg)
 ![](https://github.com/hubudata/ETS_data/raw/master/country_curve/11-18-23-29_2018_11_18_23_55_32_81.jpg)
 ## congested
+![](https://github.com/hubudata/ETS_data/raw/master/congested/11-19-00-17_2018_11_19_00_21_01_76.jpg)
+![](https://github.com/hubudata/ETS_data/raw/master/congested/11-19-00-17_2018_11_19_00_21_05_76.jpg)
+![](https://github.com/hubudata/ETS_data/raw/master/congested/11-19-00-17_2018_11_19_00_21_06_16.jpg)
+![](https://github.com/hubudata/ETS_data/raw/master/congested/11-19-00-17_2018_11_19_00_21_21_89.jpg)
+![](https://github.com/hubudata/ETS_data/raw/master/congested/11-19-00-17_2018_11_19_00_21_22_42.jpg)
+![](https://github.com/hubudata/ETS_data/raw/master/congested/11-19-00-17_2018_11_19_00_21_26_19.jpg)
