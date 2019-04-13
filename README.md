@@ -26,7 +26,7 @@
   <tr>
     <td ><center><img src="https://github.com/hubudata/ETS_data/raw/master/freeway_tunnel/11-18-22-51_2018_11_18_23_14_59_53.jpg" >describe </center></td>
     <td ><center><img src="https://github.com/hubudata/ETS_data/raw/master/freeway_tunnel/11-18-22-51_2018_11_18_23_15_25_99.jpg" >describe </center></td>
-    <td ><center><img src="https://github.com/hubudata/ETS_data/raw/master/freeway_tunnel/11-18-22-51_2018_11_18_23_12_27_19.jpg" >describe </center></td>
+    <td ><center><img src="https://github.com/hubudata/ETS_data/raw/master/freeway_tunnel/11-18-22-51_2018_11_18_23_15_27_19.jpg" >describe </center></td>
   </tr>
 </table>
 
