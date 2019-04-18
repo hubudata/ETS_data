@@ -2,7 +2,7 @@
 
 ## Overview
 * Our dataset contains about seven hours of driving data including country roads,freeways,tunnel,curve and congested roads, and we record images and motion commands at 30  frames per second. The labeling contains  steering angle，gas and break.<br><br>
-* Due to size limitations, we have uploaded only a portion of the dataset as an example.If you need a complete dataset, please contact us by email
+* Due to size limitations, we have uploaded only a portion of the dataset as an example.If you need a complete dataset, please contact us by email:huxuemin2003@163.com
 
 ## Sample Data
 ### freeway
