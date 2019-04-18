@@ -1,5 +1,6 @@
 # ETS_data
-Our dataset contains about seven hours of driving data including country roads,freeways,tunnel,curve and congested roads, and we record images and motion commands at 30  frames per second. The labeling contains  steering angle，gas and break.
+*Our dataset contains about seven hours of driving data including country roads,freeways,tunnel,curve and congested roads, and we record images and motion commands at 30  frames per second. The labeling contains  steering angle，gas and break.
+*Due to size limitations, we have uploaded only a portion of the dataset as an example.If you need a complete dataset, please contact us by email
 
 ## freeway
 <table>
@@ -76,4 +77,4 @@ Our dataset contains about seven hours of driving data including country roads,f
   </tr>
 </table>
 
-### If you need this data set, please contact me by email
+
